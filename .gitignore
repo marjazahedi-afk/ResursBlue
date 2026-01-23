@@ -1,0 +1,48 @@
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Xcode
+*.xcuserstate
+xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# React Native / Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.npm/
+
+# iOS Build
+ResursBlueRN/ios/build/
+ResursBlueRN/ios/Pods/
+*.hmap
+*.ipa
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# CocoaPods
+ResursBlueRN/ios/Pods/
+
+# Metro
+.metro-health-check*
+
+# Environment
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
